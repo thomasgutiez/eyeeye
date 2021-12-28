@@ -1,7 +1,7 @@
 # Eye Eye
-In this example we showcase the habilities of javascript to receive coordinates from the cursor and trigger actions on screen, making use of Dom's manipulation to animate objects.
+In this example we showcase the abilities of javascript to receive coordinates from the cursor and trigger actions on screen, making use of Dom's manipulation to animate objects.
 
-In future versions this could lead to interactive intros or be used to simulate parallax effect, to give depth to web applications (As a tridimentional effect). 
+In future versions this could lead to interactive intros or be used to simulate parallax effect, to give depth to web applications (As a tridimensional effect).
 
 # Demo
 https://thomasgutiez.github.io/eyeeye/index.html
