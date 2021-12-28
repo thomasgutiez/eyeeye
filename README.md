@@ -5,7 +5,7 @@ In this example we showcase the habilities of javascript to receive coordinates 
 https://thomasgutiez.github.io/eyeeye/index.html
 
 # Web of the project
-https://thomasgutiez.github.io/eyeeye
+https://thomasgutiez.github.io/eyeeye.html
 
 
 MIT License
